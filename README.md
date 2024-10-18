@@ -1,11 +1,3 @@
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas na FMU<br>- Conhecimento em C, C++ e Python<br>- Foco atual em se especializar em Python<br>- Interesse em desenvolvimento de software, automação e análise de dados</p>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
@@ -19,6 +11,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
+
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas na FMU<br>- Conhecimento em C, C++ e Python<br>- Foco atual em se especializar em Python<br>- Interesse em desenvolvimento de software, automação e análise de dados</p>
 
 ###
 
@@ -36,14 +35,4 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kevin-da-conceição-romanin-556067334/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
