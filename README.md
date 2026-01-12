@@ -1,6 +1,6 @@
-## 🌟 About Me
+## About Me
 
-Ei! Eu sou Kevin da Conceição Romanin — futuro tech legend em formação 🚀  
+Olá! Eu sou Kevin da Conceição Romanin  
 Atualmente mergulhando fundo em **Análise e Desenvolvimento de Sistemas** e caçando oportunidades de estágio pra botar tudo em prática.
 
 ```python
