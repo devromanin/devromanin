@@ -1,26 +1,19 @@
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-💻 Linguagens que eu uso no dia a dia:
-- 🐍 Python
-- ⚙️ C
-- 🚀 C++
+Ei! Eu sou Kevin da Conceição Romanin — futuro tech legend em formação 🚀  
+Atualmente mergulhando fundo em **Análise e Desenvolvimento de Sistemas** e caçando oportunidades de estágio pra botar tudo em prática.
 
-📦 Tecnologias & Ferramentas:
-- Flask
-- SQLAlchemy
-- MySQL
-- Docker (aprendendo e usando na prática)
-- Git & GitHub
-- Postman
+```python
+class DevKevin:
+    def __init__(self):
+        self.name = "Kevin Romanin"
+        self.focus = "Aprofundar em Python & Software"
+        self.skills = ["C", "C++", "Python"]
+        self.interests = ["Automação", "Software", "Análise de Dados"]
+        self.next_goal = "Construir projetos que causem impacto real"
 
-📚 Atualmente estudando:
-- Backend com Python
-- APIs REST
-- Banco de Dados
-- Boas práticas de software
-- Estruturação de projetos reais
+    def say_hello(self):
+        print("Valeu por visitar meu Github! Bora codar o futuro!")
 
-🎯 Próximo nível:
-- Clean Architecture
-- Testes automatizados
-- Performance e escalabilidade
+me = DevKevin()
+me.say_hello()
